@@ -7,7 +7,7 @@ Repository of useful Addons for Kodi
 
 # Repository of MB-KODI Useful Addons
 
-- The repo release webpage is located at https://m-borsch.github.io/Addons/
+- The repo release webpage is located at https://m-borsch.github.io/MB-KODI-Addons/
 
 > (Latest) - This is the latest version of the MB-KODI Repository
 
