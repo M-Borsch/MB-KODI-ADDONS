@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="MB-KODI-ADDONS"
+        name="MB-Kodi-Addons Repository"
+        version="1.1" 
+        provider-name="M-Borsch,MB-K@DI">
+    <requires>
+        <import addon="xbmc.addon" version="15.0.0"/>
+    </requires>
+    <extension point="xbmc.addon.repository" name="MB-KODI-ADDONS">
+        <dir>	    
+            <info compressed="false">https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/M-Borsch/MB-KODI/main/zips/</datadir>
+	</dir>		
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en_GB">Install add-ons from MB-Kodi</summary>
+        <description lang="en_GB">This repository is for development builds of MB-Kodi Addons.
+		
+Video Addons: 
+- "Insert/Swap Kodi Favourites" - Program Addon that allows you to easily re-order your favourites. Works in all skins including Confluence skin.</description>
+	<disclaimer>Information published on or related to MB-Kodi® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-Kodi is for informational purposes only. By continuing to use these services, you agree to the Terms and Conditions outlined in the ReadMe file. https://github.com/M-Borsch/repository.kodi.mb/blob/main/README.md</disclaimer>
+        <news>
+        [COLOR lavender][B]M-Borsch Repository[/B][/COLOR]
+[B]1.0:[/B]
+- Major Release: Repo contains other Addons.
+ - This is the initial version of the repo.
+        </news>
+		<assets>
+			<icon>icon.png</icon>
+		</assets>
+        <license>GPLv2</license>
+        <website>https://github.com/M-Borsch/</website>
+        <source>https://github.com/M-Borsch/MB-KODI-ADDONS</source>
+        <platform>all</platform>
+    </extension>
+</addon>
