@@ -20,9 +20,9 @@ Latest Version of the MB-KODI Repo :sunglasses:
 
 Latest Version of the MB-KODI-SUPPORT-FILES Zip File :sunglasses:
 - This version includes:
-    1 - A sample favouristes.xml file
+    1 - A sample favourites.xml file and 
     2 - A sample background file
--  Copy the MB-KODI-SUPPORT-FILES.zip file to your local odi installation and you can then extract and use these files.
+-  Copy the MB-KODI-SUPPORT-FILES.zip file to your local Kodi installation and you can then extract and use these files.
 
 ----------------------------------------------------------------------------------------------------------
 3rd Party Repositories
