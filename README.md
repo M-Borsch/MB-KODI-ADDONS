@@ -17,14 +17,15 @@ Latest Version of the MB-KODI Repo :sunglasses:
 - This version includes the latest version of the "Insert/Swap Favourites" Program Addon
 -  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of the MB-KODI-SUPPORt-FILES Zip File
+> (Latest) - This is the latest version of the MB-KODI-SUPPORT-FILES Zip File
 
 Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a Repository!) :sunglasses:
 - This version includes:
     1 - A sample favourites.xml file and 
     2 - A sample background file
 -  Copy the MB-KODI-SUPPORT-FILES.zip file to your local Kodi installation and you can then extract and use these files.
-
+> [!WARNING]
+> Do not attempt to "install from zip" this file - it will not properely install as an Addon
 ----------------------------------------------------------------------------------------------------------
 3rd Party Repositories
 ----------------------------------------------------------------------------------------------------------
