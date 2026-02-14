@@ -27,7 +27,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 > [!WARNING]
 > Do not attempt to "install from zip" this file - it will not properely install as an Addon
 ----------------------------------------------------------------------------------------------------------
-3rd Party Repositories
+3rd Party Repositories - These are publically available repositories and/or addons that are not assocaited with MB-KODI.
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Slyguy
 
@@ -68,8 +68,10 @@ Latest Version of the Loop Repo :sunglasses:
 > (Latest) - This is the latest version of Cman Buildsxyz (NeoFlix, TV Free)
 
 Latest Version of the cMaNWizard Repo :sunglasses:
-- This version includes the latest version of the "NeoFlix and TV Free" Video Addons
+- This version includes the latest version of the "Quicksilver and TV Free" Video Addons
 -  <a href="https://cmanbuildsxyz.com/repo/">Download the 3.2 cMaNWizard repo (zip file)</a> (Latest)
+> [!WARNING]
+> Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Free99
 
