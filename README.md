@@ -87,7 +87,7 @@ Latest Version of the Smirgol Repo :sunglasses:
 -  <a href="https://raw.githubusercontent.com/smirgol/crunchyroll_repo/refs/heads/main/repository.smirgol/repository.smirgol-1.0.1.zip">Download the Smirgol repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
-> MB-KODI Terms and Conditions / Dislaimer
+> MB-KODI Terms and Conditions / Disclaimer
 
 Information published on or related to MB-KODI® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-KODI is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
 
