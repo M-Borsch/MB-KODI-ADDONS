@@ -3,15 +3,16 @@ List of useful 3rd party Repositories for Kodi
 > [!NOTE]
 > These are simply pointers to publicly available repositories as well as containing a zip with sample files to help customize your Kodi install.
 
-# MB-KODI - Useful Kodi Addons
 ![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
 
-# List of MB-KODI-ADDONS - A Collection of Useful Addons via Other Publically Available Repositories
+# MB-KODI-ADDONS - A Collection of Useful Addons
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI-ADDONS/
 - Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ or the mirror site at http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS then <B>"install from zip"</B> each Addon
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI Repository
+> 
+> Supported by MB-KODI ✔️
 
 Latest Version of the MB-KODI Repo :sunglasses:
 - This repo includes the latest version of the "Manage Kodi Favourites" Program Addon
@@ -20,6 +21,8 @@ Latest Version of the MB-KODI Repo :sunglasses:
 -  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI-SUPPORT-FILES Zip File
+> 
+>  Supported by MB-KODI ✔️
 
 Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a Repository!) :sunglasses:
 - This version includes:
@@ -33,7 +36,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Slyguy
 
-Latest Version of the Slyguy Repo :sunglasses:
+Latest Version of the Slyguy Repo
 - This version includes the latest version of the "Samsung TV+" Video Addon
 -  <a href="https://slyguy.uk/">Download the latest slyguy (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
@@ -45,31 +48,31 @@ Latest Version of the Jewrepo Repo :sunglasses:
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Team Crew (Team Crew, Ghost, DaddyLive)
 
-Latest Version of the Team-Crew Repo :sunglasses:
+Latest Version of the Team-Crew Repo
 - This version includes the latest version of the "Team Crew, Host and DaddyLive" Video Addon
 -  <a href="https://team-crew.github.io/">Download thecrew 0.3.8 repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the Opensubtitles service
 
-Latest Version of the Gujal Repo :sunglasses:
+Latest Version of the Gujal Repo
 - This version includes the latest version of the "opensubtitles" Subtitle Service
 -  <a href="https://gujal00.github.io/">Download the gujal 2.0.3 repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Local Subtitles
 
-Latest Version of the Peno64 Repo :sunglasses:
+Latest Version of the Peno64 Repo
 - This version includes the latest version of the "Local Subtitles" Subtitle Service
 -  <a href="https://peno64.github.io/repository.peno64/">Download the peno64 1.5 repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of The Loop
 
-Latest Version of the Loop Repo :sunglasses:
+Latest Version of the Loop Repo
 - This version includes the latest version of the "The Loop" Video Addon
 -  <a href="https://loopaddon.uk/theloop/">Download the 3.0.4 loop repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Cman Buildsxyz (NeoFlix, TV Free)
 
-Latest Version of the cMaNWizard Repo :sunglasses:
+Latest Version of the cMaNWizard Repo
 - This version includes the latest version of the "Quicksilver and TV Free" Video Addons
 -  <a href="https://cmanbuildsxyz.com/repo/">Download the 3.2 cMaNWizard repo (zip file)</a> (Latest)
 > [!WARNING]
@@ -77,14 +80,14 @@ Latest Version of the cMaNWizard Repo :sunglasses:
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Free99
 
-Latest Version of the Diggz Repo :sunglasses:
+Latest Version of the Diggz Repo
 - This version includes the latest version of the "Free99" Video Addon
 -  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - For Anime Lovers - This is the latest version of Crunchyroll that 
 > requires a Crunchyroll account and will dynamically "link" your Kodi device to your online account.
 
-Latest Version of the Smirgol Repo :sunglasses:
+Latest Version of the Smirgol Repo
 - This version includes the latest version of the "Crunchyroll" Video Addon
 -  <a href="https://raw.githubusercontent.com/smirgol/crunchyroll_repo/refs/heads/main/repository.smirgol/repository.smirgol-1.0.1.zip">Download the Smirgol repo (zip file)</a> (Latest)
 ------------------------------------------------------------------------------------------------------------------
