@@ -1,22 +1,43 @@
-# MB-KODI-ADDONS
-List of useful 3rd party Repositories for Kodi
+# MB-KODI-ADDONS (a "Wrapper" Repository)
+Provides a list of useful 3rd party Repositories for Kodi
 > [!NOTE]
-> These are simply pointers to publicly available repositories as well as containing a zip with sample files to help customize your Kodi install.
+> This "Wrapper" repo provides copies of publicly available Repositories and/or Addons to help customize your Kodi install.
 
-![icon](https://github.com/M-Borsch/MB-KODI/blob/main/icon.png) 
+![icon](MB-KODI-icon.png) 
 
 # MB-KODI-ADDONS - A Collection of Useful Addons
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI-ADDONS/
-- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ or the mirror site at http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS then <B>"install from zip"</B> each Addon
-----------------------------------------------------------------------------------------------------------
+
+This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS with mirror at https://m-borsch.github.io/MB-KODI-ADDONS/) is published as a "wrapper" repo that you do not directly install into Kodi. Instead it serves up a list of publicly available Kodi repositories as well as containing a zip with sample files to help customize your Kodi install.
+
+> ### Installation Instructions
+>
+> 1 - In Kodi use the "File Manager" to add a new 'source' pointing to either of these sources:
+>
+>> http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS
+>> 
+>> https://m-borsch.github.io/MB-KODI-ADDONS
+>
+> 2 - In Kodi use the "Addons" - "Install from zip" option to install the repositories and/or addons listed below utilizing the 'source' that you added in the previous step
+>
+> 3 - In Kodi use the "Addons" - "Install from repo" option to install the assocated 'addon' from each respective repository that you added in the previous step
+>
+> 4 - In Kodi you can use the "File Manager" to copy the MB-KODI-SUPPORT-FILES.zip file to your local install of Kodi
+>
+> 5 - In Kodi, in the "Display" section you can use the sample background file from MB-KODI-SUPPORT-FILES as a custom Kodi background
+>
+> 6 - In Kodi you can use the "File Manager" to overwrite the favourites.xml file in the profile directory by copying the file from MB-KODI-SUPPORT-FILES as a start for your Kodi favourites. Note: requires a Kodi restart to load.
+> 
+# MB-KODI Files - These are publically available Kodi Repositories and/or Addons that are supported by MB-KODI
+
 > (Latest) - This is the latest version of the MB-KODI Repository
 > 
 > Supported by MB-KODI ✔️
 
 Latest Version of the MB-KODI Repo :sunglasses:
 - This repo includes the latest version of the "Manage Kodi Favourites" Program Addon
-- This repo includes the latest version of the "Insert/Swap Favourites" Program Addon (Deprecated)
+- This repo includes the latest version of the "Insert/Swap Favourites" Program Addon (Deprecated - replaced by "Manage Kodi Favourites")
 
 -  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
@@ -32,65 +53,120 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 > [!WARNING]
 > Do not attempt to "install from zip" this file - it will not properely install as an Addon
 ----------------------------------------------------------------------------------------------------------
-3rd Party Repositories - These are publically available repositories and/or addons that are not associated with MB-KODI.
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Slyguy
+# 3rd Party Repositories - These are publically available Kodi Repositories and/or Addons that are not associated with MB-KODI
 
-Latest Version of the Slyguy Repo
-- This version includes the latest version of the "Samsung TV+" Video Addon
--  <a href="https://slyguy.uk/">Download the latest slyguy (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Scrubs V2
+### 3rd Party Repositories with Video Addons
 
-Latest Version of the Jewrepo Repo :sunglasses:
-- This version includes the latest version of the "Scrubs V2" Video Addon
--  <a href="https://jewbmx.github.io/">Download the 1.6.0 jewrepo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Team Crew (Team Crew, Ghost, DaddyLive)
+Latest Version of the <b>Jewrepo</b> Repo <br>
+- This version includes the latest version of the "<b>Scrubs V2</b>" Video Addon <br>
+<a href="repository.jewrepo-1.6.0.zip">repository.jewrepo-1.6.0.zip</a>
 
-Latest Version of the Team-Crew Repo
-- This version includes the latest version of the "Team Crew, Host and DaddyLive" Video Addon
--  <a href="https://team-crew.github.io/">Download thecrew 0.3.8 repo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of the Opensubtitles service
+Latest Version of the <b>Slyguy</b> Repo <br>
+- This version includes the latest version of the "<b>Samsung TV+</b>" Video Addon <br>
+<a href="repository.slyguy.zip">repository.slyguy.zip</a>
 
-Latest Version of the Gujal Repo
-- This version includes the latest version of the "opensubtitles" Subtitle Service
--  <a href="https://gujal00.github.io/">Download the gujal 2.0.3 repo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Local Subtitles
+Latest Version of the <b>cMaNWizard</b> Repo <font color="green">(new support)</font><br>
+- With the passing of Chris (aka cMaN) <i>the cMaNWizard Repo and Daddylive Addon</i> had limited support <br>
+<b><font color="red">Warning: Fork-Q used in Quicksilver has a conflict with the <b>standalone</b> version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use". </font></b> <br>
+- This version includes the latest version of the "<b><font color="red">(deprecated)</font> NeoFlix, but does have supported versions of TV Free and Quicksilver</b>" Video Addons <br>
+<a href="repository.cMaNWizard-3.5.zip">repository.cMaNWizard-3.5.zip</a>
 
-Latest Version of the Peno64 Repo
-- This version includes the latest version of the "Local Subtitles" Subtitle Service
--  <a href="https://peno64.github.io/repository.peno64/">Download the peno64 1.5 repo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of The Loop
+Latest Version of the <b>Team-Crew</b> Repo <font color="red">(deprecated)</font><br>
+- The Crew has limited support <br>
+- This version includes the latest version of the "<b>The Crew, Ghost and DaddyLive (Depricated version)</b>" Video Addons <br>
+<a href="repository.thecrew-0.3.8.zip">repository.thecrew-0.3.8.zip</a>
 
-Latest Version of the Loop Repo
-- This version includes the latest version of the "The Loop" Video Addon
--  <a href="https://loopaddon.uk/theloop/">Download the 3.0.4 loop repo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Cman Buildsxyz (NeoFlix, TV Free)
+Latest Version of the <b>Diggz</b> Repo <br>
+- This version includes the latest version of the "<b>Free99</b>" Video Addon. <br>
+<a href="repository.diggz-23.zip">repository.diggz-23.zip</a>
 
-Latest Version of the cMaNWizard Repo
-- This version includes the latest version of the "Quicksilver and TV Free" Video Addons
--  <a href="https://cmanbuildsxyz.com/repo/">Download the 3.2 cMaNWizard repo (zip file)</a> (Latest)
+Latest Version of the <b>DaRealist</b> Repo <br>
+- This version includes the latest version of the "<b>The Crew, Ghost, Ghost TV, Paradox AIO, Fork-Q, SportHD, TV Free, etc</b>" Video Addons. <b><i>Note:</i></b> also available in other repos. <br>
+<a href="repository.darealist-1.0.zip">repository.darealist-1.0.zip</a>
+
+### Sports - 3rd Party repositories with Video Addons
+
+Latest Version of <b>the Loop</b> Repo <br>
+- This version includes the latest version of the "<b>The Loop</b>" Video Addon <br>
+<a href="repository.loop-3.0.4.zip">repository.loop-3.0.4.zip</a>
+
+Latest Version of the <b>Magnetic</b> Repo <br>
+- This version includes the latest version of the "<b>Mad Titan Sports</b>" Video Addons <br>
+<a href="repository.Magnetic-1.1.0b.zip">repository.Magnetic-1.1.0b.zip</a>
+
+Latest Version of the <b>Sport HD</b> Video Addon <br>
+- This addon allows you to play Sports links <br>
+<a href="plugin.video.sporthdme-0.1.84.zip">plugin.video.sporthdme-0.1.84.zip</a>
+
+### Subtitles - 3rd Party repositories with Subtitle Addons
+
+Latest Version of the <b>Gujal</b> Repo <br>
+- This version includes the latest version of the "<b>opensubtitles</b>" Subtitle Service <br>
+<a href="repository.gujal-2.0.3.zip">repository.gujal-2.0.3.zip</a>
+
+Latest Version of the <b>Peno64</b> Repo <br>
+- This version includes the latest version of the "<b>Local Subtitles</b>" Subtitle Service <br>
+<a href="repository.peno64-1.5.zip">repository.peno64-1.5.zip</a>
+
+### For Anime Lovers - 3rd Party repositories with Video Addons
+
+Latest version of Crunchyroll. Latest Version of the <b>Smirgol</b> Repo <br>
+- This version includes the latest version of the "<b>Crunchyroll</b>" Video Addon <br>
+- Requires a Crunchyroll account and will dynamically "link" your Kodi device to your online account. <br>
+<a href="repository.smirgol-1.0.1.zip">repository.smirgol-1.0.1.zip</a>
+
+### Trailers - 3rd Party repositories for supporting Trailers
+ 
+Custom Version of the <b>YouTube</b> Video Addon <br>
+- This version allows you to play Movie and TV trailers <br>
+<b><font color="red">Important: </font></b> you cannot use the standard version of the YouTube Addon and must replace it with this modified Video Addon to make trailers work in YouTube within Kodi - "Confirm you're not a bot." Issue <br>
+<a href="plugin.video.youtube-7.2.0+beta.4.zip">plugin.video.youtube-7.2.0+beta.4.zip</a>
+
+You will still require your own OAUTH Credentials <br>
+Refer to this article for more info: <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-fix-youtube-kodi">borsch.ca - How to Fix YouTube for Trailers on Kodi</a> <br>
+
+### <font color="red">Deprecated</font> - 3rd Party Addons that are lightly or no longer supported or available by other Repos
+
+<b><u>Tommhe14 - 3rd Party Video Addons via Wrapper Repository</u></b> <br>
+
+TV and Video functionality from https://tommhe14.github.io/ are some Video Addons<br>
+- With the passing of Chris (aka cMaN) <i>Daddylive and The Crew</i> have limited support <br>
+<b><font color="red">Important: </font>Patience is a Virtue</b> - These <b>Maneflix and ManeTV</b> Video Addons support thousands of links that automatically update.<br>
+The servers can get overloaded so refreshing can give intermittent results. As such, you may need to be "patient" and at times wait several seconds for lists to be generated.
+
+If it fails to generate a list or call up your link - simply try again and eventually it works. If nothing appears - Just refresh and try again to obtain your desired link or list. <br>
+- Once you obtain a "good" or "working" link you should "Save to Favourites" - epecially for Live TV links. <br>
+
+<b><font color="red">Warning: ManeTV and ManeFlix ate currenlty down! It appears that Tommhe14 wants to <b><i>monetize</i></b> his addon and therefore is no longer recommended for use!</font></b> <br>
+
+Latest Version of the <b>Maneflix</b> Video Addon <br>
+- This addon allows you to play Movie links. <br>
+<b><font color="purple">Warning: </font></b> This Addon appears to have a limit on the number of links watched per day!?
+<!--
+<a href="plugin.video.maneflix.1.0.5.zip">plugin.video.maneflix.1.0.5.zip</a>
+-->
+
+Latest Version of the <b>ManeTV</b> Video Addon <br>
+- This addon allows you to play TV and Movie links <br>
+<!--
+<a href="plugin.video.manetv.1.0.1.zip">plugin.video.manetv.1.0.1.zip</a>
+-->
+Latest  <b><font color="red">Deprecated</font> </b>"Customized" Version of the <b>DaddyLive</b> Video Addon <br>
+- With the passing of Chris (aka cMaN) <i>Daddylive and Team Crew</i> have limited support <br>
+- This veraion of the addon allows you to play Sports links. You "install from zip" this new "customized" version of DaddyLive that clears out any non-functioning links and adds new sports related links to a section called "Extra Channels / VODS". <br>
+<a href="plugin.video.daddylive.3.0.3.zip">plugin.video.daddylive.3.0.3.zip</a><br>
+
 > [!WARNING]
 > Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
-----------------------------------------------------------------------------------------------------------
-> (Latest) - This is the latest version of Free99
 
-Latest Version of the Diggz Repo
-- This version includes the latest version of the "Free99" Video Addon
--  <a href="https://nebulous42069.github.io/diggz/">Download the diggz 23 repo (zip file)</a> (Latest)
-----------------------------------------------------------------------------------------------------------
-> (Latest) - For Anime Lovers - This is the latest version of Crunchyroll that 
-> requires a Crunchyroll account and will dynamically "link" your Kodi device to your online account.
+### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
+- <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
+<br />
+Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
+<hr>
+<p><img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/26a0_fe0f/72.png" alt="âš ï¸" width="20" loading="lazy" data-emoji="âš ï¸" aria-label="âš ï¸"> No Copyright infringement intended <img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/274c/72.png" alt="âŒ" width="20" loading="lazy" data-emoji="âŒ" aria-label="âŒ"> <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a> to fix / Remove. (<span style="font-size: 8px;"><em>NAS</em></span>)</p>
+<hr>
 
-Latest Version of the Smirgol Repo
-- This version includes the latest version of the "Crunchyroll" Video Addon
--  <a href="https://raw.githubusercontent.com/smirgol/crunchyroll_repo/refs/heads/main/repository.smirgol/repository.smirgol-1.0.1.zip">Download the Smirgol repo (zip file)</a> (Latest)
-------------------------------------------------------------------------------------------------------------------
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Disclaimer
 
