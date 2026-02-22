@@ -9,7 +9,7 @@ List of useful 3rd party Repositories for Kodi
 # List of MB-KODI-ADDONS - A Collection of Useful Addons via Other Publically Available Repositories
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI-ADDONS/
-- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ then <B>"install from zip"</B> each Addon
+- Simply add a KODI source pointing to https://m-borsch.github.io/MB-KODI-ADDONS/ or the mirror site at http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS then <B>"install from zip"</B> each Addon
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI Repository
 
@@ -29,7 +29,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 > [!WARNING]
 > Do not attempt to "install from zip" this file - it will not properely install as an Addon
 ----------------------------------------------------------------------------------------------------------
-3rd Party Repositories - These are publically available repositories and/or addons that are not assocaited with MB-KODI.
+3rd Party Repositories - These are publically available repositories and/or addons that are not associated with MB-KODI.
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of Slyguy
 
