@@ -14,7 +14,9 @@ List of useful 3rd party Repositories for Kodi
 > (Latest) - This is the latest version of the MB-KODI Repository
 
 Latest Version of the MB-KODI Repo :sunglasses:
-- This version includes the latest version of the "Insert/Swap Favourites" Program Addon
+- This repo includes the latest version of the "Manage Kodi Favourites" Program Addon
+- This repo includes the latest version of the "Insert/Swap Favourites" Program Addon (Deprecated)
+
 -  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
 ----------------------------------------------------------------------------------------------------------
 > (Latest) - This is the latest version of the MB-KODI-SUPPORT-FILES Zip File
