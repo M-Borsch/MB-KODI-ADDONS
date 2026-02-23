@@ -28,7 +28,7 @@ This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDON
 > 5 - In Kodi, in the "Display" section you can use the sample background file from MB-KODI-SUPPORT-FILES as a custom Kodi background
 >
 > 6 - In Kodi you can use the "File Manager" to overwrite the favourites.xml file in the profile directory by copying the file from MB-KODI-SUPPORT-FILES as a start for your Kodi favourites. Note: requires a Kodi restart to load.
-> 
+
 # MB-KODI Files - These are publically available Kodi Repositories and/or Addons that are supported by MB-KODI
 
 > (Latest) - This is the latest version of the MB-KODI Repository
@@ -54,8 +54,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 -  Copy the MB-KODI-SUPPORT-FILES.zip file to your local Kodi installation and you can then extract and use these files.
 
 > [!WARNING]
-> Do not attempt to "install from zip" this file - it will not properely install as an Addon
-> 
+> Do not attempt to "install from zip" this file - it will not properely install as an Addon 
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -164,7 +163,6 @@ Latest  <b><font color="red">Deprecated</font> </b>"Customized" Version of the <
 
 > [!WARNING]
 > Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
-> 
 
 ### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
@@ -176,7 +174,6 @@ Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-
 
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Disclaimer
-> 
 
 Information published on or related to MB-KODI® repository is accurate and correct to our knowledge, however, there may be omissions, errors, or mistakes. Content published on or related to MB-KODI is for informational purposes only. By continuing to use these services, you agree to the following Terms and Conditions. 
 
