@@ -39,7 +39,18 @@ Latest Version of the MB-KODI Repo :sunglasses:
 - This repo includes the latest version of the "Manage Kodi Favourites" Program Addon
 - This repo includes the latest version of the "Insert/Swap Favourites" Program Addon (Deprecated - replaced by "Manage Kodi Favourites")
 
--  <a href="https://m-borsch.github.io/MB-KODI">Download the latest MB-KODI (zip file)</a> (Latest)
+<a href="MB-KODI-4.3.zip">MB-KODI-4.3.zip</a> (Latest)
+
+----------------------------------------------------------------------------------------------------------
+
+> (Latest) - This is the latest version of the Manage Kodi Favourites Program Addon
+> 
+> Supported by MB-KODI ✔️
+
+Latest Version of the Manage Kodi Favourites Program Addon :sunglasses:
+- This is the latest version of the "Manage Kodi Favourites" Program Addon
+
+<a href="Manage-Kodi-Favourites-2.0.zip">Manage-Kodi-Favourites-2.0.zip</a> (Latest)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -52,6 +63,8 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
     1 - A sample favourites.xml file and 
     2 - A sample background file
 -  Copy the MB-KODI-SUPPORT-FILES.zip file to your local Kodi installation and you can then extract and use these files.
+
+<a href="MB-KODI-SUPPORT-FILES.zip">MB-KODI-SUPPORT-FILES.zip</a> (Latest)
 
 > [!WARNING]
 > Do not attempt to "install from zip" this file - it will not properely install as an Addon 
