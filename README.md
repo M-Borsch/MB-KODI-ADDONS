@@ -67,7 +67,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 <a href="MB-KODI-SUPPORT-FILES.zip">MB-KODI-SUPPORT-FILES.zip</a> (Latest)
 
 > [!WARNING]
-> Do not attempt to "install from zip" this file - it will not properely install as an Addon 
+> Do not attempt to "install from zip" this file - it will not install as a valid Kodi Addon 
 
 ----------------------------------------------------------------------------------------------------------
 
