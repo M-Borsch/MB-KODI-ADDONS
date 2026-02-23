@@ -186,6 +186,8 @@ Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-
 
 <p><img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/26a0_fe0f/72.png" alt="âš ï¸" width="20" loading="lazy" data-emoji="âš ï¸" aria-label="âš ï¸"> No Copyright infringement intended <img class="an1" draggable="false" src="https://fonts.gstatic.com/s/e/notoemoji/15.1/274c/72.png" alt="âŒ" width="20" loading="lazy" data-emoji="âŒ" aria-label="âŒ"> <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a> to fix / Remove. (<span style="font-size: 8px;"><em>NAS</em></span>)</p>
 
+<hr>
+
 > [!IMPORTANT]
 > MB-KODI Terms and Conditions / Disclaimer
 
