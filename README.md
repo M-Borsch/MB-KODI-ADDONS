@@ -39,7 +39,7 @@ Latest Version of the MB-KODI Repo :sunglasses:
 - This repo includes the latest version of the "Manage Kodi Favourites" Program Addon
 - This repo includes the latest version of the "Insert/Swap Favourites" Program Addon (Deprecated - replaced by "Manage Kodi Favourites")
 
-<a href="MB-KODI-4.3.zip">MB-KODI-4.3.zip</a> (Latest)
+<a href="MB-KODI-4.4.zip">MB-KODI-4.4.zip</a> (Latest)
 
 ----------------------------------------------------------------------------------------------------------
 
