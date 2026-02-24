@@ -9,7 +9,7 @@ Provides a list of useful 3rd party Repositories for Kodi
 
 - The repo release webpage is located at https://m-borsch.github.io/MB-KODI-ADDONS/
 
-This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS with mirror at https://m-borsch.github.io/MB-KODI-ADDONS/) is published as a "wrapper" repo that you do not directly install into Kodi. Instead it serves up a list of publicly available Kodi repositories as well as containing a zip with sample files to help customize your Kodi install.
+This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDONS with mirror at https://m-borsch.github.io/MB-KODI-ADDONS/) is published as a "wrapper" repo that you do not directly install into Kodi. Instead, it serves up a list of publicly available Kodi repositories as well as containing a zip with sample files to help customize your Kodi install.
 
 > ### Installation Instructions
 >
@@ -21,7 +21,7 @@ This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDON
 >
 > 2 - In Kodi use the "Addons" - "Install from zip" option to install the repositories and/or addons listed below utilizing the 'source' that you added in the previous step
 >
-> 3 - In Kodi use the "Addons" - "Install from repo" option to install the assocated 'addon' from each respective repository that you added in the previous step
+> 3 - In Kodi use the "Addons" - "Install from repo" option to install the associated 'addon' from each respective repository that you added in the previous step
 >
 > 4 - In Kodi you can use the "File Manager" to copy the MB-KODI-SUPPORT-FILES.zip file to your local install of Kodi
 >
@@ -29,7 +29,7 @@ This MB-KODI-ADDONS repository (http://borsch.myqnapcloud.com:8089/MB-KODI-ADDON
 >
 > 6 - In Kodi you can use the "File Manager" to overwrite the favourites.xml file in the profile directory by copying the file from MB-KODI-SUPPORT-FILES as a start for your Kodi favourites. Note: requires a Kodi restart to load.
 
-# MB-KODI Files - These are publically available Kodi Repositories and/or Addons that are supported by MB-KODI
+# MB-KODI Files - These are publicly available Kodi Repositories and/or Addons that are supported by MB-KODI
 
 > (Latest) - This is the latest version of the MB-KODI Repository
 > 
@@ -71,7 +71,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 
 ----------------------------------------------------------------------------------------------------------
 
-# 3rd Party Repositories - These are publically available Kodi Repositories and/or Addons that are not associated with MB-KODI
+# 3rd Party Repositories - These are publicly available Kodi Repositories and/or Addons that are not associated with MB-KODI
 
 ### 3rd Party Repositories with Video Addons
 
@@ -91,7 +91,7 @@ Latest Version of the <b>cMaNWizard</b> Repo <font color="green">(new support)</
 
 Latest Version of the <b>Team-Crew</b> Repo <font color="red">(deprecated)</font><br>
 - The Crew has limited support <br>
-- This version includes the latest version of the "<b>The Crew, Ghost and DaddyLive (Depricated version)</b>" Video Addons <br>
+- This version includes the latest version of the "<b>The Crew, Ghost and DaddyLive (Deprecated version)</b>" Video Addons <br>
 <a href="repository.thecrew-0.3.8.zip">repository.thecrew-0.3.8.zip</a>
 
 Latest Version of the <b>Diggz</b> Repo <br>
@@ -155,7 +155,7 @@ The servers can get overloaded so refreshing can give intermittent results. As s
 If it fails to generate a list or call up your link - simply try again and eventually it works. If nothing appears - Just refresh and try again to obtain your desired link or list. <br>
 - Once you obtain a "good" or "working" link you should "Save to Favourites" - epecially for Live TV links. <br>
 
-<b><font color="red">Warning: ManeTV and ManeFlix ate currenlty down! It appears that Tommhe14 wants to <b><i>monetize</i></b> his addon and therefore is no longer recommended for use!</font></b> <br>
+<b><font color="red">Warning: ManeTV and ManeFlix ate currently down! It appears that Tommhe14 wants to <b><i>monetize</i></b> his addon and therefore is no longer recommended for use!</font></b> <br>
 
 Latest Version of the <b>Maneflix</b> Video Addon <br>
 - This addon allows you to play Movie links. <br>
@@ -171,13 +171,13 @@ Latest Version of the <b>ManeTV</b> Video Addon <br>
 -->
 Latest  <b><font color="red">Deprecated</font> </b>"Customized" Version of the <b>DaddyLive</b> Video Addon <br>
 - With the passing of Chris (aka cMaN) <i>Daddylive and Team Crew</i> have limited support <br>
-- This veraion of the addon allows you to play Sports links. You "install from zip" this new "customized" version of DaddyLive that clears out any non-functioning links and adds new sports related links to a section called "Extra Channels / VODS". <br>
+- This version of the addon allows you to play Sports links. You "install from zip" this new "customized" version of DaddyLive that clears out any non-functioning links and adds new sports related links to a section called "Extra Channels / VODS". <br>
 <a href="plugin.video.daddylive.3.0.3.zip">plugin.video.daddylive.3.0.3.zip</a><br>
 
 > [!WARNING]
 > Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
 
-### Reference Articles availiable at: <a href="http://borsch.ca">borsch.ca</a>
+### Reference Articles available at: <a href="http://borsch.ca">borsch.ca</a>
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 
 Questions/Comments/thanks - <a href="mailto:kodi@borsch.ca">Send an email to MB-KODI</a><br />
