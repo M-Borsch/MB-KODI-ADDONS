@@ -50,7 +50,7 @@ Latest Version of the MB-KODI Repo :sunglasses:
 Latest Version of the Manage Kodi Favourites Program Addon :sunglasses:
 - This is the latest version of the "Manage Kodi Favourites" Program Addon
 
-<a href="Manage-Kodi-Favourites-2.1.zip">Manage-Kodi-Favourites-2.1.zip</a> (Latest)
+<a href="Manage-Kodi-Favourites-2.3.zip">Manage-Kodi-Favourites-2.3.zip</a> (Latest)
 
 ----------------------------------------------------------------------------------------------------------
 
