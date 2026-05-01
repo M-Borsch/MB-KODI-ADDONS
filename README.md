@@ -54,6 +54,28 @@ Latest Version of the Manage Kodi Favourites Program Addon :sunglasses:
 
 ----------------------------------------------------------------------------------------------------------
 
+> (Latest) - This is the latest version of the do-magic Program Addon
+> 
+> Supported by MB-KODI ✔️
+
+Latest Version of the do-magic Program Addon :sunglasses:
+- This is the latest version of the "do-magic" Program Addon
+
+<a href="plugin.program.do-magic-1.0.zip">plugin.program.do-magic-1.0.zip</a> (Latest)
+
+----------------------------------------------------------------------------------------------------------
+
+> (Latest) - This is the latest version of the Insert/Swap Kodi Favourites Program Addon
+> 
+> Supported by MB-KODI ✔️
+
+Latest Version of the Insert/Swap Kodi Favourites Program Addon :sunglasses:
+- This is the latest version of the "Insert/Swap Kodi Favourites" Program Addon
+
+<a href="Insert-Swap-Kodi-Favourites-1.2.zip">Insert-Swap-Kodi-Favourites-1.2.zip</a> (Latest)
+
+----------------------------------------------------------------------------------------------------------
+
 > (Latest) - This is the latest version of the MB-KODI-SUPPORT-FILES Zip File
 > 
 >  Supported by MB-KODI ✔️
