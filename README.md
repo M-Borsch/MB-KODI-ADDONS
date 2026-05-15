@@ -97,6 +97,10 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 
 ### 3rd Party Repositories with Video Addons
 
+Latest Version of the <b>The Red Wizard</b> Repo <br>
+- This version includes the latest version of the "<b>Gratis Ref</b>" Video Addon <br>
+<a href="repository.redwizard-1.2.2.zip">repository.redwizard-1.2.2.zip</a>
+
 Latest Version of the <b>Jewrepo</b> Repo <br>
 - This version includes the latest version of the "<b>Scrubs V2</b>" Video Addon <br>
 <a href="repository.jewrepo-1.6.0.zip">repository.jewrepo-1.6.0.zip</a>
@@ -178,23 +182,6 @@ If it fails to generate a list or call up your link - simply try again and event
 - Once you obtain a "good" or "working" link you should "Save to Favourites" - epecially for Live TV links. <br>
 
 <b><font color="red">Warning: ManeTV and ManeFlix ate currently down! It appears that Tommhe14 wants to <b><i>monetize</i></b> his addon and therefore is no longer recommended for use!</font></b> <br>
-
-Latest Version of the <b>Maneflix</b> Video Addon <br>
-- This addon allows you to play Movie links. <br>
-<b><font color="purple">Warning: </font></b> This Addon appears to have a limit on the number of links watched per day!?
-<!--
-<a href="plugin.video.maneflix.1.0.5.zip">plugin.video.maneflix.1.0.5.zip</a>
--->
-
-Latest Version of the <b>ManeTV</b> Video Addon <br>
-- This addon allows you to play TV and Movie links <br>
-<!--
-<a href="plugin.video.manetv.1.0.1.zip">plugin.video.manetv.1.0.1.zip</a>
--->
-Latest  <b><font color="red">Deprecated</font> </b>"Customized" Version of the <b>DaddyLive</b> Video Addon <br>
-- With the passing of Chris (aka cMaN) <i>Daddylive and Team Crew</i> have limited support <br>
-- This version of the addon allows you to play Sports links. You "install from zip" this new "customized" version of DaddyLive that clears out any non-functioning links and adds new sports related links to a section called "Extra Channels / VODS". <br>
-<a href="plugin.video.daddylive.3.0.3.zip">plugin.video.daddylive.3.0.3.zip</a><br>
 
 > [!WARNING]
 > Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
