@@ -169,23 +169,6 @@ Custom Version of the <b>YouTube</b> Video Addon <br>
 You will still require your own OAUTH Credentials <br>
 Refer to this article for more info: <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-fix-youtube-kodi">borsch.ca - How to Fix YouTube for Trailers on Kodi</a> <br>
 
-### <font color="red">Deprecated</font> - 3rd Party Addons that are lightly or no longer supported or available by other Repos
-
-<b><u>Tommhe14 - 3rd Party Video Addons via Wrapper Repository</u></b> <br>
-
-TV and Video functionality from https://tommhe14.github.io/ are some Video Addons<br>
-- With the passing of Chris (aka cMaN) <i>Daddylive and The Crew</i> have limited support <br>
-<b><font color="red">Important: </font>Patience is a Virtue</b> - These <b>Maneflix and ManeTV</b> Video Addons support thousands of links that automatically update.<br>
-The servers can get overloaded so refreshing can give intermittent results. As such, you may need to be "patient" and at times wait several seconds for lists to be generated.
-
-If it fails to generate a list or call up your link - simply try again and eventually it works. If nothing appears - Just refresh and try again to obtain your desired link or list. <br>
-- Once you obtain a "good" or "working" link you should "Save to Favourites" - epecially for Live TV links. <br>
-
-<b><font color="red">Warning: ManeTV and ManeFlix ate currently down! It appears that Tommhe14 wants to <b><i>monetize</i></b> his addon and therefore is no longer recommended for use!</font></b> <br>
-
-> [!WARNING]
-> Fork-Q used in Quicksilver has a conflict with the standalone version of Fork-Q. You must remove any standalone versions of Fork-Q or else you will get a message like: "Addon is not authorized for use".
-
 ### Reference Articles available at: <a href="http://borsch.ca">borsch.ca</a>
 - <a href="http://borsch.myqnapcloud.com:8083/index.php/articles-by-group/how-to/howto-create-a-github-kodi-addon?highlight=WyJrb2RpIl0="><b><i></i></b><i>Article on how to build a Kodi Repository and an Addon on borsch.ca</i></a>
 
