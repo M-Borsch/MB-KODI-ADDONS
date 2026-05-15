@@ -98,7 +98,7 @@ Latest Version of the MB-KODI-SUPPORT-FILES Zip File - Kodi Support Files (Not a
 ### 3rd Party Repositories with Video Addons
 
 Latest Version of the <b>The Red Wizard</b> Repo <br>
-- This version includes the latest version of the "<b>Gratis Ref</b>" Video Addon <br>
+- This version includes the latest version of the "<b>Gratis Red</b>" Video Addon <br>
 <a href="repository.redwizard-1.2.2.zip">repository.redwizard-1.2.2.zip</a>
 
 Latest Version of the <b>Jewrepo</b> Repo <br>
