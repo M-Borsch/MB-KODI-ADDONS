@@ -61,7 +61,7 @@ Latest Version of the Manage Kodi Favourites Program Addon :sunglasses:
 Latest Version of the do-magic Program Addon :sunglasses:
 - This is the latest version of the "do-magic" Program Addon
 
-<a href="plugin.program.do-magic-1.0.zip">plugin.program.do-magic-1.0.zip</a> (Latest)
+<a href="plugin.program.do-magic-1.2.zip">plugin.program.do-magic-1.2.zip</a> (Latest)
 
 ----------------------------------------------------------------------------------------------------------
 
